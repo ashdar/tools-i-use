@@ -5,7 +5,7 @@ I think that this list would just clog up the blog and I'm too lazy to set up my
 
 This just an idea for now, it certainly needs editting. Actually, it is two ideas:
 1. Keep a list of useful things that I can refer people to
-1. Improve my MarkDown skills. Nothing teaches as well as "doing" teaches.
+1. Improve my Markdown skills. Nothing teaches as well as "doing" teaches. The first thing I have been taught is that GitHub's Markdown preview can be quirky.
 
 # Organizations
 * [SQLPASS](https://www.pass.org)
