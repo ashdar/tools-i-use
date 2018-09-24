@@ -22,7 +22,7 @@ If you fear Microsoft, you are probably using GitLab.
 I used Microsoft online for a while. I still have a project or two that I can't easily open-source stored on TFS Online.
 ## Subversion
 
-This was a pretty got thing, before git took off.
+This was a fairly popular thing, before git took off.
 
 # Platforms-Operating Systems
 ## [Windows 10](https://www.microsoft.com/en-us/windows)
